@@ -1,0 +1,15 @@
+echo "# example-2" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Soapshirt321/example-2.git
+git push -u origin main
+
+git commit -m "Hello my friends!"
+
+git remote add origin https://github.com/Soapshirt321/example-2.gitgit branch -M maingit push -u origin main
+
+git commit -M "WHEN THE BALDI HEAD IS SUS"
+
+git commit -m "OK goodnight"
